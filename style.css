@@ -79,14 +79,14 @@ select {
     list-style-image: url(assets/image/solar_map-arrow-up-bold.svg);
     font-weight: 400;
     font-size: 16px;
-    padding-left: 20px;
+    padding:0 20px;
     /* Стили для маркированного списка во второй секции */
 }
 
 .books-list {
     font-weight: 400;
     font-size: 16px;
-    padding-left: 20px;
+    padding:0 20px;
     /* Стили для нумерованного списка во второй секции */
 }
 
