@@ -125,20 +125,19 @@ select {
 
 table {
     border-collapse: collapse;
+    font-size: 14px;
     /* Стили для таблицы */
 }
 
 th, td {
     border: 1px solid #95a1bb;
     font-weight: 400;
-    font-size: 16px;
     padding: 12px 15px;
     /* Стили для ячеек таблицы */
 }
 
 th {
     font-weight: 700;
-    font-size: 14px;
 }
 
 footer {
